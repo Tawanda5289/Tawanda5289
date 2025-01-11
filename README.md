@@ -10,7 +10,7 @@
   - [Customer Budget Optimization (Excel and Simulation)](https://github.com/Tawanda5289/Customer-Budget-Optimization)
 - <b>Algorithm Development</b>
   - [Dating Matchmaking Logic (Python)](https://github.com/Tawanda5289/Dating-Algorithm)
-  - [Stock Trading Simulation (Python)](https://github.com/Tawanda5289/Stock-Trading-Simulation)
+  - [Stock Trading Simulation (Python)](https://github.com/Tawanda5289/Project-stocks/blob/main)
 - <b>Web App Development</b>
   - [Online Banking System (Python and Flask)](https://github.com/Tawanda5289/Online-Banking-System)
   - [Food Packaging Order Portal (HTML, CSS, and SQL)](https://github.com/Tawanda5289/Food-Packaging-Order-Portal)
