@@ -1,32 +1,37 @@
 <h1>Hi, I'm Omega Muchabaiwa! <br/>
-<a href="https://github.com/Tawanda5289/Tawanda5289">Data Enthusiast</a>, 
+<a href="https://github.com/Tawanda5289">Data Enthusiast</a>, 
 <a href="https://www.linkedin.com/in/omega-muchabaiwa">Business Analyst</a>, 
 <a href="https://www.youtube.com/@OmegaMuchabaiwa-k4i">YouTuber</a></h1>
 
 <h2>👨‍💻 Data Analytics and Development Projects:</h2>
 
 - <b>Data Analysis and Visualization</b>
-  - [Home Depot Financial Analysis (Power BI and Excel)](https://github.com/Tawanda5289/Home-Depot-Analysis)
-  - [Customer Budget Optimization (Excel and Simulation)](https://github.com/Tawanda5289/Customer-Budget-Optimization)
+  - [Oklahoma PC Card Auditing Analysis](https://github.com/Tawanda5289/oklahoma-auditing-analysis)
+  - [Online Stock Trading Simulation](https://github.com/Tawanda5289/Project-stocks)
+    <br />
+    <img src="https://imgur.com/UW6UwW2.png" height="50%" width="50%" alt="Initialize the Trading Simulation"/>
+    <br />
+    <img src="https://imgur.com/Lv9RLTW.png" height="50%" width="50%" alt="Select Stocks and Set Initial Capital"/>
+    <br />
+    <img src="https://imgur.com/sx0cxdi.png" height="50%" width="50%" alt="Analyze Portfolio Performance"/>
+    <br />
+    <<img src="https://i.imgur.com/NmrOxql.png" height="50%" width="50%" alt="Simulate Portfolio Changes Over Time"/>
 - <b>Algorithm Development</b>
-  - [Dating Matchmaking Logic (Python)](https://github.com/Tawanda5289/Dating-Algorithm)
-  - [Stock Trading Simulation (Python)](https://github.com/Tawanda5289/Project-stocks/blob/main)
-- <b>Web App Development</b>
-  - [Online Banking System (Python and Flask)](https://github.com/Tawanda5289/Online-Banking-System)
-  - [Food Packaging Order Portal (HTML, CSS, and SQL)](https://github.com/Tawanda5289/Food-Packaging-Order-Portal)
-- <b>Automation and Process Improvement</b>
-  - [Sales Process Automation (Power BI, Power Automate)](https://github.com/Tawanda5289/Sales-Automation)
+  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/nba-travel-distance)
+- <b>Inventory Management</b>
+  - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
 
 <h2>📺 Upcoming YouTube Videos</h2>
 
-- [Simulating Stock Trading for Beginners](https://www.youtube.com/@OmegaMuchabaiwa-k4i)
-- [How to Build an Online Banking System](https://www.youtube.com/@OmegaMuchabaiwa-k4i)
-- [Data-Driven Decision Making in Business](https://www.youtube.com/@OmegaMuchabaiwa-k4i)
+- [Understanding Auditing with Oklahoma PC Card Data](https://www.youtube.com/@OmegaMuchabaiwa-k4i)
+- [Simulating Online Stock Trading Strategies](https://www.youtube.com/@OmegaMuchabaiwa-k4i)
+- [Optimizing Inventory Allocation: A Data-Driven Approach](https://www.youtube.com/@OmegaMuchabaiwa-k4i)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Omega Muchabaiwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Omega Muchabaiwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[twitter]: https://twitter.com/YOUR_TWITTER
 [youtube]: https://www.youtube.com/@OmegaMuchabaiwa-k4i
-[linkedin]: https://www.linkedin.com/in/omega-muchabaiwa
+[linkedin]: https://linkedin.com/in/omega-muchabaiwa
