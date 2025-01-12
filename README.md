@@ -17,7 +17,7 @@
     <br />
     <<img src="https://i.imgur.com/NmrOxql.png" height="50%" width="50%" alt="Simulate Portfolio Changes Over Time"/>
 - <b>Algorithm Development</b>
-  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/nba-travel-distance)
+  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/NBA-MILES)
 - <b>Inventory Management</b>
   - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
 
