@@ -22,12 +22,12 @@
     <img src="https://imgur.com/7VAAH1X.png" height="50%" width="50%" alt="Define Data by Assigning Names" />  
     <img src="https://imgur.com/kwp1Ksj.png" height="50%" width="50%" alt="Calculate Compatibility Scores" />  
     <img src="https://imgur.com/M58vYAS.png" height="50%" width="50%" alt="Matching Results" />  
-
+- <b>Optimization and Simulation</b>
   - [NBA Travel Distance Calculator using Excel for Optimization](https://github.com/Tawanda5289/NBA-MILES)  
     <img src="https://imgur.com/AQyhxPs.png" height="50%" width="50%" alt="NBA Travel Data Set" />  
     <img src="https://imgur.com/hqLac81.png" height="50%" width="50%" alt="Calculate Distance and Optimize Order" />  
 
-- <b>Inventory Management</b>
+- <b>Inventory Optimization</b>
   - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)  
     <img src="https://imgur.com/LFXCFAA.png" height="50%" width="50%" alt="Optimum Order Quantity" />  
     <img src="https://imgur.com/suOPYb7.png" height="50%" width="50%" alt="Economic Order Quantity Calculation" />  
