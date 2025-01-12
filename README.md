@@ -19,7 +19,7 @@
 - <b>Algorithm Development</b>
   - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/NBA-MILES)
 - <b>Inventory Management</b>
-  - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
+  - [Inventory Allocation Optimization](https://github.com/Tawanda5289/Inventory-Allocation)
 
 <h2>📺 Upcoming YouTube Videos</h2>
 
