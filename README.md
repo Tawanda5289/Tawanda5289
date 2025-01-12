@@ -24,7 +24,7 @@
    - <img src="https://imgur.com/kwp1Ksj.png" height="50%" width="50%" alt="Calculate compatibility scores"/>
    - <img src="https://imgur.com/M58vYAS.png" height="50%" width="50%" alt="Matching Results"/>
    <br />>
-  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/nba-travel-distance)
+  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/NBA-MILES)
 - <b>Inventory Management</b>
   - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
 
