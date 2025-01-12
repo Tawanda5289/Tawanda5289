@@ -6,7 +6,7 @@
 <h2>👨‍💻 Data Analytics and Development Projects:</h2>
 
 - <b>Data Analysis and Visualization</b>
-  - [Oklahoma PC Card Auditing Analysis](https://github.com/Tawanda5289/Auditing-Analysis)
+  - [Oklahoma PC Card Auditing Analysis](https://github.com/Tawanda5289/oklahoma-auditing-analysis)
   - [Online Stock Trading Simulation](https://github.com/Tawanda5289/Project-stocks)
     <br />
     <img src="https://imgur.com/UW6UwW2.png" height="50%" width="50%" alt="Initialize the Trading Simulation"/>
@@ -14,12 +14,11 @@
     <img src="https://imgur.com/Lv9RLTW.png" height="50%" width="50%" alt="Select Stocks and Set Initial Capital"/>
     <br />
     <img src="https://imgur.com/sx0cxdi.png" height="50%" width="50%" alt="Analyze Portfolio Performance"/>
-    <br />
-    <<img src="https://i.imgur.com/NmrOxql.png" height="50%" width="50%" alt="Simulate Portfolio Changes Over Time"/>
+   <img src="https://i.imgur.com/NmrOxql.png" height="50%" width="50%" alt="Simulate Portfolio Changes Over Time"/> <br />>
 - <b>Algorithm Development</b>
-  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/NBA-MILES)
+  - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/nba-travel-distance)
 - <b>Inventory Management</b>
-  - [Inventory Allocation Optimization](https://github.com/Tawanda5289/Inventory-Allocation)
+  - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
 
 <h2>📺 Upcoming YouTube Videos</h2>
 
