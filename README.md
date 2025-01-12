@@ -20,6 +20,10 @@
    <img src="https://i.imgur.com/NmrOxql.png" height="50%" width="50%" alt="Simulate Portfolio Changes Over Time"/> <br />>
 - <b>Algorithm Development</b>
    - [Dating Matchmaking Logic](https://github.com/Tawanda5289/DatingAlgorithm)
+   - <img src="https://imgur.com/7VAAH1X.png" height="50%" width="50%" alt="Define Data by assigning names"/>
+   - <img src="https://imgur.com/kwp1Ksj.png" height="50%" width="50%" alt="Calculate compatibility scores"/>
+   - <img src="https://imgur.com/M58vYAS.png" height="50%" width="50%" alt="Matching Results"/>
+   <br />>
   - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/nba-travel-distance)
 - <b>Inventory Management</b>
   - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
