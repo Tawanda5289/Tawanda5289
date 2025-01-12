@@ -43,6 +43,6 @@
 [<img align="left" alt="Omega Muchabaiwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
 [<img align="left" alt="Omega Muchabaiwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
-[twitter]: https://x.com/vamuchabaiwa 
+[X]: https://x.com/vamuchabaiwa 
 [youtube]: https://www.youtube.com/@OmegaMuchabaiwa-k4i  
 [linkedin]: https://linkedin.com/in/omega-muchabaiwa  
