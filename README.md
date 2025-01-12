@@ -6,7 +6,7 @@
 <h2>👨‍💻 Data Analytics and Development Projects:</h2>
 
 - <b>Data Analysis and Visualization</b>
-  - [Oklahoma PC Card Auditing Analysis](https://github.com/Tawanda5289/oklahoma-auditing-analysis)
+  - [Oklahoma PC Card Auditing Analysis](https://github.com/Tawanda5289/Auditing-Analysis)
   - [Online Stock Trading Simulation](https://github.com/Tawanda5289/Project-stocks)
     <br />
     <img src="https://imgur.com/UW6UwW2.png" height="50%" width="50%" alt="Initialize the Trading Simulation"/>
