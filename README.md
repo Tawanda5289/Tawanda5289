@@ -26,10 +26,12 @@
    <br />>
   - [NBA Travel Distance Calculator using Excel for optimization](https://github.com/Tawanda5289/NBA-MILES)
   - <img src="https://imgur.com/AQyhxPs.png" height="50%" width="50%" alt="Data set"/>
-  - - <img src="https://imgur.com/hqLac81.png" height="50%" width="50%" alt="Calculating Distance and order according to distance"/>
+  - <img src="https://imgur.com/hqLac81.png" height="50%" width="50%" alt="Calculating Distance and order according to distance"/>
    <br />>
 - <b>Inventory Management</b>
   - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
+  - <img src="https://imgur.com/LFXCFAA.png" height="50%" width="50%" alt="Optimum Order Quantity"/>
+  - <img src="https://imgur.com/suOPYb7.png" height="50%" width="50%" alt="Economic Order quantity"/>
 
 <h2>📺 Upcoming YouTube Videos</h2>
 
