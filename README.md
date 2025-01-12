@@ -19,6 +19,7 @@
     <img src="https://imgur.com/sx0cxdi.png" height="50%" width="50%" alt="Analyze Portfolio Performance"/>
    <img src="https://i.imgur.com/NmrOxql.png" height="50%" width="50%" alt="Simulate Portfolio Changes Over Time"/> <br />>
 - <b>Algorithm Development</b>
+   - [Dating Matchmaking Logic](https://github.com/Tawanda5289/Dating-Algorithm)
   - [NBA Travel Distance Calculator](https://github.com/Tawanda5289/nba-travel-distance)
 - <b>Inventory Management</b>
   - [Inventory Allocation Optimization](https://github.com/Tawanda5289/inventory-allocation)
