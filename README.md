@@ -1,7 +1,7 @@
 <h1>Hi, I'm Omega Muchabaiwa! <br/>
 <a href="https://github.com/Tawanda5289">Data Enthusiast</a>, 
 <a href="https://www.linkedin.com/in/omega-muchabaiwa">Business Analyst</a>, 
-<a href="https://www.youtube.com/@OmegaMuchabaiwa-k4i">YouTuber</a></h1>
+<a href="https://www.youtube.com/@OmegaMuchabaiwa-k4i">Logistics and Inventory Analyst</a></h1>
 
 <h2>👨‍💻 Data Analytics and Development Projects:</h2>
 
