@@ -5,6 +5,12 @@
 
 <h2>👨‍💻 Data Analytics and Development Projects:</h2>
 
+- <b>Optimising Inventory Management through Time-Series Demand Forecasting </b>
+  - [Inventory Demand Forecasting and Analytics Dashboard](https://github.com/Tawanda5289/Inventory-Demand-Forecasting)  
+    <img src="https://imgur.com/HiJzgKT.png" height="50%" width="50%" alt="Analyze Weekly sales for store 3" />  
+    <img src="https://imgur.com/S65gyIs.png" height="50%" width="50%" alt="Inventory Demand Forecasting and Analytics" />  
+    <img src="https://imgur.com/9AbkKLF.png" height="50%" width="50%" alt="Final analysis Dashboard" /> 
+
 - <b>Data Analysis and Visualization</b>
   - [Oklahoma PC Card Auditing Analysis using PowerBI Visualization](https://github.com/Tawanda5289/oklahoma-auditing-analysis)  
     <img src="https://imgur.com/IORyWUe.png" height="50%" width="50%" alt="Data Analysis Dashboard" />  
