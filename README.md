@@ -2,8 +2,6 @@
 <a href="https://github.com/Tawanda5289">Data Enthusiast</a>, 
 <a href="https://www.linkedin.com/in/omega-muchabaiwa">Business Analyst</a>, 
 <a href="https://www.youtube.com/@OmegaMuchabaiwa-k4i">Logistics and Inventory Analyst</a></h1>
-<h1 align="center">Hi 👋, I'm Omega Muchabaiwa</h1>
-<h3 align="center">I am a Data Analyst, Visualization, Logistics and Inventory Analyst.</h3>
 
 <p align="left"> <a href="https://twitter.com/vamuchabaiwa" target="blank"><img src="https://img.shields.io/twitter/follow/vamuchabaiwa?logo=twitter&style=for-the-badge" alt="vamuchabaiwa" /></a> </p>
 
